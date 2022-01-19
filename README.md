@@ -1,2 +1,2 @@
 # awscloudformationec2
-create ec2 by cloud formation
+deploy infrastructure code with ec2 and s3.
